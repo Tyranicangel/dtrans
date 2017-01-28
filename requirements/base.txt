@@ -1,0 +1,34 @@
+# Bleeding edge Django
+django==1.7
+
+# Configuration
+django-configurations==0.8
+django-secure==1.0
+django-cache-url==0.8.0
+dj-database-url==0.3.0
+
+# Forms
+django-braces==1.4.0
+django-floppyforms==1.2.0
+
+# Models
+django-model-utils==2.2
+
+# images
+
+# For the persistance stores
+mysql-python==1.2.5
+
+# Unicode slugification
+unicode-slugify==0.1.1
+django-autoslug==1.7.2
+
+# Time zones support
+pytz==2014.7
+
+# Your custom requirements go here
+djangorestframework==2.4.3
+djangorestframework-jwt==1.0.2
+django-cors-headers==0.13
+django-extensions==1.4.4
+ipython==2.3.0
